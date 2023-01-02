@@ -1,0 +1,430 @@
+@media (max-width: 1024px) {
+
+    /* home-page */
+    .logo {
+        width: 25%;
+        font-size: 12px;
+    }
+
+    .navbar {
+        width: 51%;
+    }
+
+    #slider {
+        height: 582px;
+    }
+
+    .box-info img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .text-info {
+        font-size: 12px;
+    }
+
+    .text-info h3 {
+        font-size: 13px;
+    }
+
+    .img-big {
+        width: 250px;
+        height: 370px;
+    }
+
+    .img-small {
+        width: 220px;
+        height: 370px;
+    }
+
+    .norm {
+        flex-wrap: wrap;
+        height: auto;
+        font-size: 14px;
+    }
+
+    .img-norm {
+        width: 182px;
+    }
+
+    .img-norm img {
+        height: 244px;
+    }
+
+    .trans-pr,
+    .qua-prese {
+        width: 30%;
+    }
+
+    .certificate {
+        width: 96%;
+    }
+
+    .why-choose-us {
+        height: 462px;
+    }
+
+    .sectors {
+        height: 362px;
+    }
+
+    .vegetable-img {
+        height: 370px;
+    }
+
+    .footer {
+        font-size: 13px;
+    }
+
+    .mxh img {
+        width: 35px;
+        height: 35px;
+        margin: 30px 14px;
+    }
+
+    .ft-bottom {
+        height: 40px;
+        font-size: 17px;
+    }
+
+    /* recommend */
+    .fresh-tasty {
+        height: 358px;
+    }
+
+    .box-f-t {
+        height: 100px;
+        padding: 20px 0 20px;
+    }
+
+    .box-f-t img {
+        width: 272px;
+        height: 100%;
+    }
+
+    .box-text-f-t {
+        font-size: 12px;
+    }
+
+    .button-f-t {
+        height: 30px;
+        margin-top: 28px;
+        font-size: 14px;
+    }
+
+    .especially {
+        height: 485px;
+    }
+
+    .heading-esp {
+        padding: 20px 0 0 0;
+        font-size: 18px;
+    }
+
+    .box1-esp {
+        margin: 30px 0;
+    }
+
+    .box1-esp div {
+        height: 74px;
+        font-size: 14px;
+    }
+
+    .box2-esp {
+        margin-top: 48px;
+    }
+
+    .box2-esp .img-swap {
+        height: 204px;
+    }
+
+    .box2-esp .img-swap img {
+        width: 188px;
+        height: 200px;
+    }
+
+    .especially button {
+        margin-top: 32px;
+        font-size: 14px;
+    }
+
+    /* shop */
+    .box-product {
+        width: 26%;
+    }
+}
+
+@media (max-width: 580px) {
+
+    /* home-page */
+    .log-reg-text {
+        display: none;
+    }
+
+    .user {
+        display: block;
+    }
+
+    .menu {
+        height: 72px;
+        justify-content: left;
+        position: relative;
+    }
+
+    #toggle {
+        display: block;
+    }
+
+    .logo {
+        width: 60%;
+        margin-left: 30px;
+    }
+
+    .navbar {
+        text-align: center;
+        width: 100%;
+        display: none;
+        position: absolute;
+        bottom: -152px;
+        background-color: var(--background);
+    }
+
+    .nav-item {
+        padding: 6px 0;
+    }
+
+    #slider {
+        height: 244px;
+    }
+
+    .information {
+        flex-wrap: wrap;
+        height: 145px;
+    }
+
+    .box-info {
+        width: 48%;
+    }
+
+    .function {
+        flex-wrap: wrap;
+
+    }
+
+    .img-big,
+    .img-small {
+        width: 46%;
+        height: 274px;
+        flex-basis: 46%;
+        margin-bottom: 20px;
+    }
+
+    .norm {
+        padding: 0;
+        margin: 30px auto 0;
+    }
+
+    .img-norm {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .img-norm img {
+        flex-basis: 100%;
+    }
+
+    .trans-pr,
+    .qua-prese {
+        width: 42%;
+        padding-left: 20px;
+    }
+
+    .certificate {
+        padding-left: 10px;
+    }
+
+    .why-choose-us {
+        height: 262px;
+    }
+
+    .sectors {
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .veget-meats {
+        width: 100%;
+    }
+
+    .tasty {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .vegetable-img {
+        height: 262px;
+    }
+
+    .footer {
+        font-size: 10px;
+    }
+
+    .box-info-ft {
+        display: block;
+        padding: 0 20px;
+    }
+
+    .info-info-ft {
+        width: 100%;
+    }
+
+    .ft-bottom {
+        font-size: 12px;
+        height: 30px;
+    }
+
+    /* recommend */
+    .fresh-tasty {
+        height: 184px;
+    }
+
+    .box-f-t {
+        height: 48px;
+        padding: 0;
+    }
+
+    .box-f-t img {
+        width: 190px;
+    }
+
+    .box-text-f-t {
+        font-size: 8px;
+    }
+
+    .text-f-t {
+        padding: 4px 0;
+    }
+
+    .button-f-t {
+        margin-top: 10px;
+        height: 22px;
+        font-size: 10px;
+        width: 100px;
+    }
+
+    .especially {
+        height: 256px;
+    }
+
+    .heading-esp {
+        padding: 10px 0 0 0;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .box1-esp {
+        margin: 20px 0;
+    }
+
+    .box1-esp div {
+        height: 55px;
+        font-size: 8px;
+        width: 43%;
+    }
+
+    .box2-esp {
+        margin-top: 30px;
+    }
+
+    .box2-esp .img-swap {
+        height: 84px;
+    }
+
+    .box2-esp .img-swap img {
+        width: 100px;
+        height: 78px;
+    }
+
+    .especially button {
+        width: 150px;
+        height: 25px;
+        margin-top: 12px;
+        font-size: 10px;
+    }
+
+    /* shop */
+    .box-product {
+        width: 44%;
+        font-size: 14px;
+    }
+
+    .heading-prd {
+        min-height: 48px;
+    }
+
+    /* shopping */
+
+    .logo-shopping-logo {
+        font-size: 10px;
+    }
+
+    .logo-shopping-shopping {
+        font-size: 18px;
+        padding-top: 22px;
+    }
+
+    .frame {
+        width: 90%;
+        margin: 10px auto 0;
+    }
+
+    .frame-left {
+        width: 100%;
+    }
+
+    .frame-right {
+        display: none;
+    }
+
+    .box-shopping {
+        width: 90%;
+        height: 100px;
+        padding: 0 20px;
+        display: block;
+    }
+
+    .box-sp-left {
+        width: 100%;
+        height: 68%;
+        margin-top: 6px;
+    }
+
+    .box-sp-right {
+        width: 100%;
+        padding: 6px 0;
+    }
+
+    .del {
+        display: none;
+    }
+
+    .payment {
+        display: block;
+        height: 120px;
+    }
+
+    .payment-right {
+        width: 100%;
+        justify-content: flex-end;
+    }
+
+    .sum-payment {
+        font-size: 28px;
+    }
+
+    .payment-right button {
+        width: 106px;
+        height: 36px;
+        font-size: 12px;
+    }
+}
