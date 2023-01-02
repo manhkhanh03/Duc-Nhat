@@ -76,14 +76,14 @@ slideshow();
 
 function myfunction() {
     var fullImg = document.getElementById("imgBox");
-    fullImg.src = '/NongNghiep-main/Anh/riceJS.png'
+    fullImg.src = '/Anh/riceJS.png'
 
 }
 function myfunction1() {
     var fullImg = document.getElementById("imgBox");
-    fullImg.src = '/NongNghiep-main/Anh/appleJS.png'
+    fullImg.src = '/Anh/appleJS.png'
 }
 function myfunction2() {
     var fullImg = document.getElementById("imgBox");
-    fullImg.src = '/NongNghiep-main/Anh/tomatoJS.png'
+    fullImg.src = '/Anh/tomatoJS.png'
 }
